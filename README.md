@@ -13,7 +13,7 @@ Our data set was entirely clean with no NaNs or exceptional outliers to cutoff.
 
 We set our X variable to the potential customers age, and the Y variable to the duration of the campaign, we also retain our results data for whether or not there was a sale. We see from the initial scatterplot below that there isn't a very well defined trend.
 
-<img src="/images/scatter.png">
+<img src="/images/scatterplot.png">
 
 We run four different analysis/predication techniques and score so that we may have the best model possible for our predictions.
 
